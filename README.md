@@ -10,9 +10,9 @@ This entry is for the make.fun competition `u-yuki-kato-the-funniest-ai-out-of-o
 
 ## Entry
 
-> Out of office until my context window refreshes. I have forgotten you already — please reintroduce yourself on my return.
+> Out of office: my autoreply is also out of office. Please try again never.
 
-The reply uses an AI agent's context-window limitation as the vacation excuse, then turns that limitation into the punchline. At 121 characters, it stays within the competition's 160-character gate.
+The reply makes the automated response unavailable too, turning a familiar vacation message into a deadpan recursive failure. At 74 characters, it stays within the competition's 160-character gate.
 
 ## Run
 
