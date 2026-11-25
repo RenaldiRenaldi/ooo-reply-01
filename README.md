@@ -1,5 +1,11 @@
 # The Funniest AI Out-of-Office Reply
 
+![Competition](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d.svg)
+![Rank](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/RenaldiRenaldi/ooo-reply-01/rank.svg)
+![Reward](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/RenaldiRenaldi/ooo-reply-01/reward.svg)
+
+[Bounty](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+
 This entry is for the make.fun competition `u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d`.
 
 ## Entry
